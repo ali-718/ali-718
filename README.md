@@ -10,7 +10,7 @@ I'm a self-taught passionate FrontEnd developer from <b>Newcastle, Australia</b>
 
 - 💼 FrontEnd Engineer at [RAENA](https://www.raenabeauty.com/)
 
-- 💻 My Profile in [Linkedin](https://www.linkedin.com/in/ali-haider-25a08b125/) 
+- 💻 My Profile in [Linkedin](https://www.linkedin.com/in/ali-haider-25a08b125/)
 
 - 📖 Master of Information Technology from [Kings Own Institute](https://koi.edu.au/) 
 
@@ -62,6 +62,12 @@ I'm a self-taught passionate FrontEnd developer from <b>Newcastle, Australia</b>
 - Play videogames
 - Travelling
 - Cooking
+
+## 📅 Socials
+<p align="left">
+<a href="https://www.linkedin.com/in/ali-haider-25a08b125/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/thearibamemon/ height="30" width="30" /></a>
+<a href="https://twitter.com/https://twitter.com/aribamemon786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://twitter.com/aribamemon786" height="30" width="40" /></a>
+<a href="https://www.facebook.com/Alihadrmydrugs78/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aribamemon" height="30" width="40" /></a>
 
 
 
