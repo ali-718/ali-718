@@ -1,10 +1,10 @@
 <p align="center"><img width="80%" alt="Hello, I'm Ali Hiader. I am a Frontend developer" src="./assets/gh-readme-header.png" /></p>
 
-<br />
 
-I'm a self-taught passionate FrontEnd developer from <b>Newcastle, Australia</b>. I have <b>3+ years</b> of experince in building Web and Mobile applications with <b>JavaScript / Typescript / ReactJS / NextJS / React Native</b> and some other cool libraries and frameworks. Currently doing my <b>Masters in Information Technology</b> from Kings Own Institute.
 
-<br />
+I'm a self-taught passionate FrontEnd developer from <b>Newcastle, Australia</b>. I have <b>3+ years</b> of experience in building Web and Mobile applications with <b>JavaScript / Typescript / ReactJS / NextJS / React Native</b> and some other cool libraries and frameworks. Currently doing my <b>Masters in Information Technology</b> from Kings Own Institute.
+
+
 
 **About me**
 
@@ -16,14 +16,14 @@ I'm a self-taught passionate FrontEnd developer from <b>Newcastle, Australia</b>
 
 - 💬 Reach out to me on my email [alimurtuza718@gmail.com](mailto:alimurtuza718@gmail.com)
 
-<br />
 
-**Organizations I worked With**
+
+**Organizations I have worked With**
 - [RAENA](https://www.raenabeauty.com/)
 - [Somee Social](https://somee.social/)
 - [BizIntel](https://bizintel.co/)
 
-<br />
+
 
 **Websites I developed**
 - [Somee Social](https://somee.social/)
@@ -31,7 +31,7 @@ I'm a self-taught passionate FrontEnd developer from <b>Newcastle, Australia</b>
 - [Linkstore - testing version](https://stg.rdash360.com/linkstore)
 - [Dresez](https://dresez.com/)
 
-<br />
+
 
 **Mobile applications I developed**
 - [RAENA Reseller & Dropship App](https://play.google.com/store/apps/details?id=com.raenaapp&hl=en&gl=US)
@@ -40,7 +40,7 @@ I'm a self-taught passionate FrontEnd developer from <b>Newcastle, Australia</b>
 - [Bakier](https://play.google.com/store/apps/details?id=com.bakier.co&hl=en&gl=US)
 - [Glow Calculator](https://play.google.com/store/apps/details?id=com.codebusterspro.glowcalculator&hl=en&gl=US)
 
-<br />
+
 
 **Languages and Tools**
 <p align="left">
@@ -52,18 +52,18 @@ I'm a self-taught passionate FrontEnd developer from <b>Newcastle, Australia</b>
  <a href="https://www.apollographql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png" alt="typescript" width="40" height="40"/> </a>
 
 
-<br />
+
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ali-718&show_icons=true&locale=en&layout=compact" alt="ali-718" /></p>
 
-<br />
+
 
 ## 📅 Hobbies
 - Play videogames
 - Travelling
 - Cooking
 
-<br />
+
 
 ## 👨‍🏫 I also Teach
 - Frontend web development (React.js / Reactnative)
