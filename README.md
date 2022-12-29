@@ -1,4 +1,4 @@
-<img width="80%" alt="Hello, I'm Ali Hiader. I am a Frontend developer" src="./assets/gh-readme-header.png" /></a>
+<p align="center"><img width="80%" alt="Hello, I'm Ali Hiader. I am a Frontend developer" src="./assets/gh-readme-header.png" /></p>
 
 <br />
 
