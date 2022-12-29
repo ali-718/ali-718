@@ -6,7 +6,7 @@ I'm a self-taught passionate FrontEnd developer from <b>Newcastle, Australia</b>
 
 
 
-**About me**
+## 🧑 About me
 
 - 💼 FrontEnd Engineer at [RAENA](https://www.raenabeauty.com/)
 
@@ -18,14 +18,14 @@ I'm a self-taught passionate FrontEnd developer from <b>Newcastle, Australia</b>
 
 
 
-**Organizations I have worked With**
+## 🏢 Organizations I have worked With
 - [RAENA](https://www.raenabeauty.com/)
 - [Somee Social](https://somee.social/)
 - [BizIntel](https://bizintel.co/)
 
 
 
-**Websites I developed**
+## 🌐 Websites I have developed
 - [Somee Social](https://somee.social/)
 - [Rdash 360](https://rdash360.com/)
 - [Linkstore - testing version](https://stg.rdash360.com/linkstore)
@@ -33,7 +33,7 @@ I'm a self-taught passionate FrontEnd developer from <b>Newcastle, Australia</b>
 
 
 
-**Mobile applications I developed**
+## 📱 Mobile applications I have developed
 - [RAENA Reseller & Dropship App](https://play.google.com/store/apps/details?id=com.raenaapp&hl=en&gl=US)
 - [Somee Social](https://play.google.com/store/apps/details?id=com.someesocial&hl=en&gl=US)
 - [Beeplink](https://play.google.com/store/apps/details?id=com.beeplink.beep&hl=en&gl=US)
@@ -42,7 +42,7 @@ I'm a self-taught passionate FrontEnd developer from <b>Newcastle, Australia</b>
 
 
 
-**Languages and Tools**
+## 🧰 Languages and Tools
 <p align="left">
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
@@ -72,8 +72,8 @@ I'm a self-taught passionate FrontEnd developer from <b>Newcastle, Australia</b>
 
 ## 🖼️ Screenshots of me Teaching
 <p align="left">
-<img src="https://scontent.fkhi2-3.fna.fbcdn.net/v/t1.6435-9/67187802_2449725258582907_3314812895279185920_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=a4a2d7&_nc_eui2=AeHMl6J3fAyY9Y8UY4VmEXrR_b_gfl2gFk79v-B-XaAWTtbFUA_OlSAHl2vf-Y1UrNtK8cYgdhDowiV-y-3Ci7Ig&_nc_ohc=tzSmvjvmc9UAX8eXWIr&_nc_ht=scontent.fkhi2-3.fna&oh=00_AfA4hoPyPMXuXP15D9pLe6xN74dF89lAnoo4hHUU8xHf4Q&oe=63D547F7" alt="react" width="500" height="300"/>
-<img src="https://scontent.fkhi2-2.fna.fbcdn.net/v/t1.6435-9/67315926_2450461918509241_3584182863148351488_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=a4a2d7&_nc_eui2=AeHhJfIKwyhjIvLCuif-MCfLIIIz_FLiJMQggjP8UuIkxFunQ5d_PZ50Vf95VgHmx0JFOelvC9YEySyBtflmVUEN&_nc_ohc=oa0-ZVnWBM4AX_kcXVf&tn=_YLEyYEn7AxpoV5W&_nc_ht=scontent.fkhi2-2.fna&oh=00_AfBVxaMblDg2L5e_a6uiwYdHpLCoZIrAeKT5XjBu17Jl6g&oe=63D53C55" alt="react" width="500" height="300"/>
-<img src="https://scontent.fkhi2-3.fna.fbcdn.net/v/t1.6435-9/87835950_2645788785643219_5179958471415562240_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeGaYFBxLcyHJWR0Vqkg7nfr_q1YwB1XV4X-rVjAHVdXhSOPqkAEpHtbXGO_Ya15q_t40gEAzrtR_60Q6S-miRDg&_nc_ohc=3pejzwZxyvkAX86E9m5&_nc_ht=scontent.fkhi2-3.fna&oh=00_AfC_eJGPP2hj8O376KlFsoGjr8YPlqYXCw5DP3LIQ4XzPw&oe=63D55B41" alt="react" width="500" height="300"/>
-<img src="https://scontent.fkhi2-3.fna.fbcdn.net/v/t1.6435-9/66590757_2447540322134734_3528296598368944128_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeHQ6R4XVLFbZNvPuLd71u-rwS-LU4MLW0vBL4tTgwtbS_pMqeBbidwXqb_x3UQUkpFdSXS4fAcS3fsQ-FtAIupK&_nc_ohc=I7kJHNWlbugAX_U6hDA&_nc_ht=scontent.fkhi2-3.fna&oh=00_AfCNN_fW8rutPfcT8MrFelI3H2OHvFo-7sYvPLEpl0no5g&oe=63D5470F" alt="react" width="500" height="300"/>
+<img src="https://scontent.fkhi2-3.fna.fbcdn.net/v/t1.6435-9/67187802_2449725258582907_3314812895279185920_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=a4a2d7&_nc_eui2=AeHMl6J3fAyY9Y8UY4VmEXrR_b_gfl2gFk79v-B-XaAWTtbFUA_OlSAHl2vf-Y1UrNtK8cYgdhDowiV-y-3Ci7Ig&_nc_ohc=tzSmvjvmc9UAX8eXWIr&_nc_ht=scontent.fkhi2-3.fna&oh=00_AfA4hoPyPMXuXP15D9pLe6xN74dF89lAnoo4hHUU8xHf4Q&oe=63D547F7" alt="react" width="300" height="300"/>
+<img src="https://scontent.fkhi2-2.fna.fbcdn.net/v/t1.6435-9/67315926_2450461918509241_3584182863148351488_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=a4a2d7&_nc_eui2=AeHhJfIKwyhjIvLCuif-MCfLIIIz_FLiJMQggjP8UuIkxFunQ5d_PZ50Vf95VgHmx0JFOelvC9YEySyBtflmVUEN&_nc_ohc=oa0-ZVnWBM4AX_kcXVf&tn=_YLEyYEn7AxpoV5W&_nc_ht=scontent.fkhi2-2.fna&oh=00_AfBVxaMblDg2L5e_a6uiwYdHpLCoZIrAeKT5XjBu17Jl6g&oe=63D53C55" alt="react" width="300" height="300"/>
+<img src="https://scontent.fkhi2-3.fna.fbcdn.net/v/t1.6435-9/87835950_2645788785643219_5179958471415562240_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeGaYFBxLcyHJWR0Vqkg7nfr_q1YwB1XV4X-rVjAHVdXhSOPqkAEpHtbXGO_Ya15q_t40gEAzrtR_60Q6S-miRDg&_nc_ohc=3pejzwZxyvkAX86E9m5&_nc_ht=scontent.fkhi2-3.fna&oh=00_AfC_eJGPP2hj8O376KlFsoGjr8YPlqYXCw5DP3LIQ4XzPw&oe=63D55B41" alt="react" width="300" height="300"/>
+<img src="https://scontent.fkhi2-3.fna.fbcdn.net/v/t1.6435-9/66590757_2447540322134734_3528296598368944128_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeHQ6R4XVLFbZNvPuLd71u-rwS-LU4MLW0vBL4tTgwtbS_pMqeBbidwXqb_x3UQUkpFdSXS4fAcS3fsQ-FtAIupK&_nc_ohc=I7kJHNWlbugAX_U6hDA&_nc_ht=scontent.fkhi2-3.fna&oh=00_AfCNN_fW8rutPfcT8MrFelI3H2OHvFo-7sYvPLEpl0no5g&oe=63D5470F" alt="react" width="300" height="300"/>
 </p>
