@@ -79,7 +79,7 @@ I'm a self-taught passionate FrontEnd developer from <b>Newcastle, Australia</b>
 - Git
 - Progamming
 
-## 🖼️ Images of me Training
+## 😎 Training in style
 <p align="left">
 <img src="https://scontent.fkhi2-3.fna.fbcdn.net/v/t1.6435-9/67187802_2449725258582907_3314812895279185920_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=a4a2d7&_nc_eui2=AeHMl6J3fAyY9Y8UY4VmEXrR_b_gfl2gFk79v-B-XaAWTtbFUA_OlSAHl2vf-Y1UrNtK8cYgdhDowiV-y-3Ci7Ig&_nc_ohc=tzSmvjvmc9UAX8eXWIr&_nc_ht=scontent.fkhi2-3.fna&oh=00_AfA4hoPyPMXuXP15D9pLe6xN74dF89lAnoo4hHUU8xHf4Q&oe=63D547F7" alt="react" width="400" height="300"/>
 <img src="./assets/training.png" alt="react" width="400" height="300"/>
