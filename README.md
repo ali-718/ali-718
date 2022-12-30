@@ -71,13 +71,13 @@ I'm a self-taught passionate FrontEnd developer from <b>Newcastle, Australia</b>
 
 <br />
 
-## 👨‍🏫 I also Teach
+## 👨‍🏫 I also give Training
 - Frontend web development (React.js / Reactnative)
 - Javascript / Typescript
 - Git
 - Progamming
 
-## 🖼️ Screenshots of me Teaching
+## 🖼️ Images of me Training
 <p align="left">
 <img src="https://scontent.fkhi2-3.fna.fbcdn.net/v/t1.6435-9/67187802_2449725258582907_3314812895279185920_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=a4a2d7&_nc_eui2=AeHMl6J3fAyY9Y8UY4VmEXrR_b_gfl2gFk79v-B-XaAWTtbFUA_OlSAHl2vf-Y1UrNtK8cYgdhDowiV-y-3Ci7Ig&_nc_ohc=tzSmvjvmc9UAX8eXWIr&_nc_ht=scontent.fkhi2-3.fna&oh=00_AfA4hoPyPMXuXP15D9pLe6xN74dF89lAnoo4hHUU8xHf4Q&oe=63D547F7" alt="react" width="400" height="300"/>
 <img src="https://scontent.fkhi2-2.fna.fbcdn.net/v/t1.6435-9/67315926_2450461918509241_3584182863148351488_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=a4a2d7&_nc_eui2=AeHhJfIKwyhjIvLCuif-MCfLIIIz_FLiJMQggjP8UuIkxFunQ5d_PZ50Vf95VgHmx0JFOelvC9YEySyBtflmVUEN&_nc_ohc=oa0-ZVnWBM4AX_kcXVf&tn=_YLEyYEn7AxpoV5W&_nc_ht=scontent.fkhi2-2.fna&oh=00_AfBVxaMblDg2L5e_a6uiwYdHpLCoZIrAeKT5XjBu17Jl6g&oe=63D53C55" alt="react" width="400" height="300"/>
