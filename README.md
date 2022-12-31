@@ -89,7 +89,7 @@ I'm a self-taught passionate FrontEnd developer from <b>Newcastle, Australia</b>
 <img src="https://scontent.fkhi2-3.fna.fbcdn.net/v/t1.6435-9/66590757_2447540322134734_3528296598368944128_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeHQ6R4XVLFbZNvPuLd71u-rwS-LU4MLW0vBL4tTgwtbS_pMqeBbidwXqb_x3UQUkpFdSXS4fAcS3fsQ-FtAIupK&_nc_ohc=I7kJHNWlbugAX_U6hDA&_nc_ht=scontent.fkhi2-3.fna&oh=00_AfCNN_fW8rutPfcT8MrFelI3H2OHvFo-7sYvPLEpl0no5g&oe=63D5470F" alt="react" width="400" height="300"/>
 </p>
 
-## 🎵 Favourite Song
+## 🎵 Spotify status
 
 <a href="https://jvillegasd-spotify.vercel.app/api/song/?opened">
   <img src="https://jvillegasd-spotify.vercel.app/api/song" width="341" height="571" alt="Now Playing">
