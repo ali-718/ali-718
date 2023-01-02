@@ -76,7 +76,7 @@ I'm a self-taught passionate FrontEnd developer from <b>🇦🇺 Newcastle, Aust
 
 <br />
 
-## 👨‍🏫 I also give Training
+## 👨‍🏫 I also give training
 - Frontend web development (React.js / Reactnative)
 - Javascript / Typescript
 - Git
