@@ -2,7 +2,7 @@
 
 
 
-I'm a self-taught passionate FrontEnd developer from <b>Newcastle, Australia</b>. I have <b>3+ years</b> of experience in building Web and Mobile applications with <b>JavaScript / Typescript / ReactJS / NextJS / React Native</b> and some other cool libraries and frameworks. Currently doing my <b>Masters in Information Technology</b> from Kings Own Institute
+I'm a self-taught passionate FrontEnd developer from <b>🇦🇺 Newcastle, Australia</b>. I have <b>3+ years</b> of experience in building Web and Mobile applications with <b>JavaScript / Typescript / ReactJS / NextJS / React Native</b> and some other cool libraries and frameworks. Currently doing my <b>Masters in Information Technology</b> from Kings Own Institute
 
 
 
@@ -66,11 +66,13 @@ I'm a self-taught passionate FrontEnd developer from <b>Newcastle, Australia</b>
 - Travelling
 - Cooking
 
-## 💬 Socials
-<p align="left">
-<a href="https://www.linkedin.com/in/ali-haider-25a08b125/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/thearibamemon/ height="30" width="30" /></a>
-<a href="https://www.instagram.com/meet_your_developer/?utm_source=ig_profile_share&igshid=3f9r4jsxg2lu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://twitter.com/aribamemon786" height="30" width="40" /></a>
-<a href="https://www.facebook.com/Alihadrmydrugs78/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aribamemon" height="30" width="40" /></a>
+## 💬 Where to find me
+<p><a href="https://github.com/ali-718" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+<a href="https://www.linkedin.com/in/ali-haider-25a08b125/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.facebook.com/Alihadrmydrugs78/" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="https://www.instagram.com/meet_your_developer/?utm_source=ig_profile_share&igshid=3f9r4jsxg2lu" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="mailto:alimurtuza718@gmail.com" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 <br />
 
