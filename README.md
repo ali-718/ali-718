@@ -73,8 +73,8 @@ I'm a self-taught passionate FrontEnd developer from <b>🇦🇺 Newcastle, Aust
 <a href="https://www.instagram.com/meet_your_developer/?utm_source=ig_profile_share&igshid=3f9r4jsxg2lu" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="mailto:alimurtuza718@gmail.com" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-
-<br />
+<!-- 
+<br /> -->
 
 ## 👨‍🏫 I also give training
 - Frontend web development (React.js / Reactnative)
