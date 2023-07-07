@@ -1,14 +1,14 @@
-<p align="center"><img width="80%" alt="Hello, I'm Ali Hiader. I am a Frontend developer" src="./assets/gh-readme-header.png" /></p>
+<p align="center"><img width="80%" alt="Hello, I'm Ali Hiader. I am a Fullstack developer" src="./assets/gh-readme-header.png" /></p>
 
 
 
-I'm a self-taught passionate FrontEnd developer from <b>🇦🇺 Newcastle, Australia</b>. I have <b>3+ years</b> of experience in building Web and Mobile applications with <b>JavaScript / Typescript / ReactJS / NextJS / React Native</b> and some other cool libraries and frameworks. Currently doing my <b>Masters in Information Technology</b> from Kings Own Institute
+I'm a self-taught passionate Fullstack developer from <b>🇦🇺 Newcastle, Australia</b>. I have <b>3+ years</b> of experience in building Web and Mobile applications with <b>JavaScript / Typescript / ReactJS / NextJS / React Native / .NET Core</b> and some other cool libraries and frameworks. Currently doing my <b>Masters in Information Technology</b> from Kings Own Institute
 
 
 
 ## 🧑 About me
 
-- 💼 FrontEnd Engineer at [RAENA](https://www.raenabeauty.com/)
+- 💼 Fullstack Engineer at [RAENA](https://www.raenabeauty.com/)
 
 - 👨‍🏫 Trainer
 
@@ -50,7 +50,8 @@ I'm a self-taught passionate FrontEnd developer from <b>🇦🇺 Newcastle, Aust
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
- <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+ <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+ <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg" alt="typescript" width="40" height="40"/> </a>
  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
  <a href="https://www.apollographql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png" alt="typescript" width="40" height="40"/> </a>
 
@@ -69,13 +70,15 @@ I'm a self-taught passionate FrontEnd developer from <b>🇦🇺 Newcastle, Aust
 <a href="mailto:alimurtuza718@gmail.com" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://steamcommunity.com/id/haider718/" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" /></a>
 <a href="https://github.com/ali-718" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+<a href="https://www.youtube.com/@developerwolf2331" target="_blank"><img alt="Github" src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+<!-- <a href="https://www.threads.net/@meet_your_developer" target="_blank"><img alt="Threads" style="width:95px; height: 28px" src="https://s.yimg.com/ny/api/res/1.2/vBKJkWZHkrEeXWJnbs5idQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/creative_bloq_161/1e2fac5107bf7564c56404f1f809e031" /></a> -->
 </p>
 <!-- 
 <br /> -->
 
 ## 👨‍🏫 I also give training
-- Frontend web development (React.js / Reactnative)
-- Javascript / Typescript
+- Fullstack web development (React.js / Reactnative / .NET core)
+- Javascript / Typescript / C#
 - Git
 - Progamming
 
