@@ -4,7 +4,7 @@ I'm a self-taught passionate Fullstack developer from <b>🇦🇺 Newcastle, Aus
 
 ## 🧑 About me
 
-- 💼 Fullstack Engineer at [RAENA](https://www.raenabeauty.com/)
+- 💼 Fullstack Engineer at [MAE Logistics Sydney](https://maelogistics.com.au/)
 
 - 👨‍🏫 Trainer
 
