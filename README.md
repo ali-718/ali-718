@@ -16,12 +16,14 @@ I'm a self-taught passionate Fullstack developer from <b>🇦🇺 Newcastle, Aus
 
 ## 🏢 Organizations I have worked With
 
+- [MAE Logistics](https://maelogistics.com.au/)
 - [RAENA](https://www.raenabeauty.com/)
 - [Somee Social](https://somee.social/)
 - [BizIntel](https://bizintel.co/)
 
 ## 🌐 Websites I have developed
 
+- [MAE Portal](https://happy-pebble-073deb310.3.azurestaticapps.net/)
 - [Somee Social](https://somee.social/)
 - [Rdash 360](https://rdash360.com/)
 - [Linkstore - testing version](https://stg.rdash360.com/linkstore)
