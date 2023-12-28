@@ -1,6 +1,6 @@
 <p align="center"><img width="80%" alt="Hello, I'm Ali Hiader. I am a Fullstack developer" src="./assets/gh-readme-header.png" /></p>
 
-I'm a self-taught passionate Fullstack developer from <b>🇦🇺 Newcastle, Australia</b>. I have <b>3+ years</b> of experience in building Web and Mobile applications with <b>JavaScript / Typescript / ReactJS / NextJS / React Native / .NET Core</b> and some other cool libraries and frameworks. Currently doing my <b>Masters in Information Technology</b> from Kings Own Institute
+I'm a self-taught passionate Fullstack developer from <b>🇦🇺 Newcastle, Australia</b>. I have <b>4+ years</b> of experience in building Web and Mobile applications with <b>JavaScript / Typescript / ReactJS / NextJS / React Native / .NET Core</b> and some other cool libraries and frameworks. Currently doing my <b>Masters in Information Technology</b> from Kings Own Institute
 
 ## 🧑 About me
 
