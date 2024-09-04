@@ -24,6 +24,7 @@ I'm a self-taught passionate Fullstack developer from <b>🇦🇺 Newcastle, Aus
 ## 🌐 Websites I have developed
 
 - [MAE Portal](https://happy-pebble-073deb310.3.azurestaticapps.net/)
+- [MA3 Logistics](https://ma3logistics.com.au/)
 - [AYMS International](https://ayms.com.au/)
 - [Somee Social](https://somee.social/)
 - [Rdash 360](https://rdash360.com/)
