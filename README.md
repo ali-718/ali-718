@@ -1,6 +1,12 @@
 <p align="center"><img width="80%" alt="Hello, I'm Ali Hiader. I am a Fullstack developer" src="./assets/gh-readme-header.png" /></p>
 
-I'm a self-taught passionate Fullstack developer from <b>🇦🇺 Newcastle, Australia</b>. I have <b>5+ years</b> of experience in building Web and Mobile applications with <b>JavaScript / Typescript / ReactJS / NextJS / React Native / Nodejs / .NET Core</b> and some other cool libraries and frameworks. Currently doing my <b>Masters in Information Technology</b> from Kings Own Institute
+With over <b>6+ years of experience</b>, I specialize in building <b>responsive, user-focused front-end applications</b> using modern frameworks like <b>React</b> and <b>React Native</b>. My expertise in <b>Tailwind CSS</b> and <b>Material UI</b> enables me to create clean, cohesive designs that enhance user engagement. For state management, I leverage <b>Redux</b> for complex applications and <b>Zustand</b> for lightweight solutions.
+
+On the backend, I excel in <b>.NET Core</b>, designing <b>RESTful APIs</b>, implementing <b>microservices</b>, and using patterns like <b>CQRS</b> and <b>Mediator</b> for maintainable and scalable systems. I also configure <b>OAuth 2.0</b> for secure authentication.
+
+I have strong <b>DevOps expertise</b>, working with <b>Azure</b> (App Service, Service Bus, Azure DevOps) and <b>AWS</b> (EC2, S3, Lambda) to streamline development and deployment. I implement <b>CI/CD pipelines</b> with tools like <b>GitHub Actions</b> for fast, reliable deployments.
+
+Committed to <b>localization</b> and following <b>industry best practices</b>, I deliver impactful, high-quality software solutions tailored to client and user needs.
 
 ## 🧑 About me
 
