@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="Ali Haider - Fullstack Engineer">
+<title>Ali Haider - Fullstack Engineer</title>
+<style>
+.disp{font-family:'Arial Black','Arial Bold',Impact,'Helvetica Neue',Arial,sans-serif;font-weight:900}
+.mono{font-family:Consolas,'Courier New',Menlo,monospace}
+@keyframes flicker{0%,18%,22%,25%,53%,57%,100%{opacity:1}20%,24%,55%{opacity:.25}}
+.flicker{animation:flicker 4s infinite}
+</style>
+<defs>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#FCEE0A" stroke-opacity=".07"/></pattern>
+<pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1.5" fill="#000" opacity=".35"/></pattern>
+<pattern id="stripes" width="12" height="12" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="6" height="12" fill="#FCEE0A"/></pattern>
+<linearGradient id="beam" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#00F0FF" stop-opacity="0"/><stop offset="1" stop-color="#00F0FF" stop-opacity=".22"/></linearGradient>
+<clipPath id="frame"><path d="M0 0H1160L1200 40V340H40L0 300Z"/></clipPath>
+<clipPath id="g1"><rect x="0" y="0" width="1200" height="0">
+<animate attributeName="y" values="0;95;140;112;0" keyTimes="0;.88;.9;.93;.96" dur="3.2s" calcMode="discrete" repeatCount="indefinite"/>
+<animate attributeName="height" values="0;18;12;26;0" keyTimes="0;.88;.9;.93;.96" dur="3.2s" calcMode="discrete" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="g2"><rect x="0" y="0" width="1200" height="0">
+<animate attributeName="y" values="0;150;102;128;0" keyTimes="0;.6;.62;.9;.94" dur="3.2s" calcMode="discrete" repeatCount="indefinite"/>
+<animate attributeName="height" values="0;14;30;10;0" keyTimes="0;.6;.62;.9;.94" dur="3.2s" calcMode="discrete" repeatCount="indefinite"/></rect></clipPath>
+<filter id="glow" x="-20%" y="-50%" width="140%" height="200%"><feGaussianBlur stdDeviation="8"/></filter>
+</defs>
+<g clip-path="url(#frame)">
+<rect width="1200" height="340" fill="#0A0B10"/>
+<rect width="1200" height="340" fill="url(#grid)"/>
+<rect x="0" y="-90" width="1200" height="90" fill="url(#beam)"><animate attributeName="y" from="-90" to="340" dur="4s" repeatCount="indefinite"/></rect>
+
+<path d="M0 0H360L336 32H0Z" fill="#FCEE0A"/>
+<text x="22" y="22" class="mono" font-size="15" font-weight="700" fill="#0A0B10" letter-spacing="2">NC_ID // AH-718 // NETRUNNER</text>
+<text x="1130" y="24" text-anchor="end" class="mono" font-size="13" fill="#8A8F98" letter-spacing="2">BUILD 20.77 :: SECTOR SYD-AU</text>
+<rect x="1140" y="14" width="6" height="12" fill="#FF003C"/>
+
+<text x="70" y="182" class="disp" font-size="100" textLength="760" lengthAdjust="spacingAndGlyphs" fill="#FCEE0A" opacity=".45" filter="url(#glow)">ALI HAIDER</text>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0;-5 0;4 0;0 0" keyTimes="0;.88;.92;.96" dur="3.2s" calcMode="discrete" repeatCount="indefinite"/>
+<text x="70" y="182" class="disp" font-size="100" textLength="760" lengthAdjust="spacingAndGlyphs" fill="#FCEE0A">ALI HAIDER</text>
+<text x="62" y="182" class="disp" font-size="100" textLength="760" lengthAdjust="spacingAndGlyphs" fill="#00F0FF" clip-path="url(#g1)">ALI HAIDER</text>
+<text x="79" y="182" class="disp" font-size="100" textLength="760" lengthAdjust="spacingAndGlyphs" fill="#FF003C" clip-path="url(#g2)">ALI HAIDER</text>
+</g>
+<path d="M70 202H800L812 210H70Z" fill="#FCEE0A"/>
+<rect x="818" y="202" width="12" height="8" fill="#FF003C"><animate attributeName="opacity" values="1;0" dur="0.8s" calcMode="discrete" repeatCount="indefinite"/></rect>
+
+<text x="70" y="244" class="mono" font-size="25" font-weight="700" fill="#00F0FF" letter-spacing="3">FULLSTACK ENGINEER // REACT × .NET × CLOUD</text>
+<text x="70" y="274" class="mono" font-size="15" fill="#8A8F98" letter-spacing="2">LOC: SYDNEY_AU   EXP: 6+ YRS   CLASS: NETRUNNER   STATUS: <tspan fill="#FF003C">● ONLINE<animate attributeName="fill-opacity" values="1;.2" dur="1.2s" calcMode="discrete" repeatCount="indefinite"/></tspan></text>
+
+<rect x="70" y="292" width="760" height="14" fill="none" stroke="#FCEE0A" stroke-opacity=".5"/>
+<rect x="72" y="294" width="756" height="10" fill="url(#stripes)"><animate attributeName="width" values="0;756;756" keyTimes="0;.8;1" dur="4s" repeatCount="indefinite"/></rect>
+<text x="70" y="326" class="mono" font-size="12" fill="#8A8F98" letter-spacing="3">SYNCING NEURAL LINK<tspan fill="#FCEE0A">...<animate attributeName="fill-opacity" values="1;0" dur=".6s" calcMode="discrete" repeatCount="indefinite"/></tspan></text>
+
+<g transform="translate(1020 172)">
+<circle r="104" fill="none" stroke="#FCEE0A" stroke-opacity=".25"/>
+<g><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="18s" repeatCount="indefinite"/>
+<circle r="90" fill="none" stroke="#00F0FF" stroke-width="2" stroke-dasharray="3 9"/>
+<circle cx="0" cy="-104" r="5" fill="#FF003C"/></g>
+<g><animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="9s" repeatCount="indefinite"/>
+<circle r="74" fill="none" stroke="#FCEE0A" stroke-width="5" stroke-dasharray="70 46"/></g>
+<g><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="5s" repeatCount="indefinite"/>
+<path d="M0 0L0 -60A60 60 0 0 1 42 -43Z" fill="#00F0FF" fill-opacity=".18"/></g>
+<path d="M-120 0H-58M58 0H120M0 -120V-58M0 58V120" stroke="#FCEE0A" stroke-opacity=".6"/>
+<circle r="56" fill="none" stroke="#00F0FF" stroke-opacity=".4"/>
+<text y="10" text-anchor="middle" class="disp flicker" font-size="34" fill="#FCEE0A">718</text>
+<text y="34" text-anchor="middle" class="mono" font-size="11" fill="#00F0FF" letter-spacing="2">LVL MAX</text>
+</g>
+
+<rect x="0" y="120" width="1200" height="3" fill="#00F0FF" opacity="0"><animate attributeName="opacity" values="0;.7;0" keyTimes="0;.9;.92" dur="3.2s" calcMode="discrete" repeatCount="indefinite"/></rect>
+<rect x="300" y="160" width="520" height="6" fill="#FF003C" opacity="0"><animate attributeName="opacity" values="0;.6;0" keyTimes="0;.6;.62" dur="3.2s" calcMode="discrete" repeatCount="indefinite"/></rect>
+<rect width="1200" height="340" fill="url(#scan)"/>
+</g>
+<path d="M1 1H1159.5L1199 40.5V339H40.5L1 299.5Z" fill="none" stroke="#FCEE0A" stroke-width="2" stroke-opacity=".8"/>
+<path d="M1160 0H1200V40Z" fill="#FCEE0A"/><path d="M0 300V340H40Z" fill="#FCEE0A"/>
+</svg>

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="80" viewBox="0 0 1200 80" role="img" aria-label="CORPO HISTORY">
+<title>CORPO HISTORY</title>
+<style>
+.disp{font-family:'Arial Black','Arial Bold',Impact,'Helvetica Neue',Arial,sans-serif;font-weight:900}
+.mono{font-family:Consolas,'Courier New',Menlo,monospace}
+@keyframes flicker{0%,18%,22%,25%,53%,57%,100%{opacity:1}20%,24%,55%{opacity:.25}}
+.flicker{animation:flicker 4s infinite}
+</style>
+<defs>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#FCEE0A" stroke-opacity=".07"/></pattern>
+<pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1.5" fill="#000" opacity=".35"/></pattern>
+<pattern id="stripes" width="12" height="12" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="6" height="12" fill="#FCEE0A"/></pattern>
+<clipPath id="frame"><path d="M0 0H1170L1200 30V80H30L0 50Z"/></clipPath>
+</defs>
+<g clip-path="url(#frame)">
+<rect width="1200" height="80" fill="#0A0B10"/>
+<rect width="1200" height="80" fill="url(#grid)"/>
+<path d="M0 0H96L72 80H0Z" fill="#FCEE0A"/>
+<path d="M100 0H112L88 80H76Z" fill="#FF003C"/>
+<text x="14" y="54" class="disp" font-size="34" fill="#0A0B10">03</text>
+<text x="124" y="48" class="disp flicker" font-size="30" fill="#FCEE0A" letter-spacing="2">CORPO HISTORY<tspan fill="#00F0FF">_<animate attributeName="fill-opacity" values="1;0" dur="1s" calcMode="discrete" repeatCount="indefinite"/></tspan></text>
+<line x1="124" y1="64" x2="1150" y2="64" stroke="#00F0FF" stroke-opacity=".25" stroke-width="2"/>
+<line x1="124" y1="64" x2="1150" y2="64" stroke="#00F0FF" stroke-width="2" stroke-dasharray="140 1200"><animate attributeName="stroke-dashoffset" values="140;-1200" dur="3s" repeatCount="indefinite"/></line>
+<text x="1160" y="26" text-anchor="end" class="mono" font-size="13" fill="#8A8F98" letter-spacing="2">SYS://EMPLOYERS.LOG</text>
+<text x="1160" y="50" text-anchor="end" class="mono" font-size="12" fill="#FF003C" letter-spacing="2">0x00687D</text>
+<rect width="1200" height="80" fill="url(#scan)"/>
+</g>
+<path d="M1 1H1169.5L1199 30.5V79H30.5L1 49.5Z" fill="none" stroke="#FCEE0A" stroke-opacity=".6" stroke-width="2"/>
+</svg>

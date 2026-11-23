@@ -1,0 +1,168 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="468" viewBox="0 0 1200 468" role="img" aria-label="Netrunner attributes: skill levels">
+<title>Netrunner attributes</title>
+<style>
+.disp{font-family:'Arial Black','Arial Bold',Impact,'Helvetica Neue',Arial,sans-serif;font-weight:900}
+.mono{font-family:Consolas,'Courier New',Menlo,monospace}
+@keyframes flicker{0%,18%,22%,25%,53%,57%,100%{opacity:1}20%,24%,55%{opacity:.25}}
+.flicker{animation:flicker 4s infinite}
+</style>
+<defs>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#FCEE0A" stroke-opacity=".07"/></pattern>
+<pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1.5" fill="#000" opacity=".35"/></pattern>
+<pattern id="stripes" width="12" height="12" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="6" height="12" fill="#FCEE0A"/></pattern>
+<clipPath id="frame"><path d="M0 0H1170L1200 30V468H30L0 438Z"/></clipPath>
+</defs>
+<g clip-path="url(#frame)">
+<rect width="1200" height="468" fill="#0A0B10"/>
+<rect width="1200" height="468" fill="url(#grid)"/>
+<path d="M0 0H440L416 34H0Z" fill="#FCEE0A"/>
+<text x="24" y="24" class="disp" font-size="19" fill="#0A0B10" letter-spacing="3">NETRUNNER ATTRIBUTES</text>
+<text x="1160" y="26" text-anchor="end" class="mono" font-size="13" fill="#8A8F98" letter-spacing="2">PTS ALLOCATED: <tspan fill="#00F0FF">108/120</tspan></text>
+<line x1="0" y1="62" x2="1200" y2="62" stroke="#FCEE0A" stroke-opacity=".3"/>
+<text x="40" y="108" class="disp" font-size="21" fill="#FCEE0A" letter-spacing="2">REFLEXES</text>
+<text x="40" y="130" class="mono" font-size="13" fill="#8A8F98">FRONTEND :: React · React Native · Next.js</text>
+<path d="M527 92H544L537 122H520Z" fill="#FCEE0A"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.150;0.200;1" dur="2.0s" fill="freeze"/></path>
+<path d="M555 92H572L565 122H548Z" fill="#FCEE0A"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.165;0.215;1" dur="2.0s" fill="freeze"/></path>
+<path d="M583 92H600L593 122H576Z" fill="#FCEE0A"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.180;0.230;1" dur="2.0s" fill="freeze"/></path>
+<path d="M611 92H628L621 122H604Z" fill="#FCEE0A"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.195;0.245;1" dur="2.0s" fill="freeze"/></path>
+<path d="M639 92H656L649 122H632Z" fill="#FCEE0A"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.210;0.260;1" dur="2.0s" fill="freeze"/></path>
+<path d="M667 92H684L677 122H660Z" fill="#FCEE0A"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.225;0.275;1" dur="2.0s" fill="freeze"/></path>
+<path d="M695 92H712L705 122H688Z" fill="#FCEE0A"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.240;0.290;1" dur="2.0s" fill="freeze"/></path>
+<path d="M723 92H740L733 122H716Z" fill="#FCEE0A"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.255;0.305;1" dur="2.0s" fill="freeze"/></path>
+<path d="M751 92H768L761 122H744Z" fill="#FCEE0A"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.270;0.320;1" dur="2.0s" fill="freeze"/></path>
+<path d="M779 92H796L789 122H772Z" fill="#FCEE0A"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.285;0.335;1" dur="2.0s" fill="freeze"/></path>
+<path d="M807 92H824L817 122H800Z" fill="#FCEE0A"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.300;0.350;1" dur="2.0s" fill="freeze"/></path>
+<path d="M835 92H852L845 122H828Z" fill="#FCEE0A"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.315;0.365;1" dur="2.0s" fill="freeze"/></path>
+<path d="M863 92H880L873 122H856Z" fill="#FCEE0A"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.330;0.380;1" dur="2.0s" fill="freeze"/></path>
+<path d="M891 92H908L901 122H884Z" fill="#FCEE0A"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.345;0.395;1" dur="2.0s" fill="freeze"/></path>
+<path d="M919 92H936L929 122H912Z" fill="#FCEE0A"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.360;0.410;1" dur="2.0s" fill="freeze"/></path>
+<path d="M947 92H964L957 122H940Z" fill="#FCEE0A"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.375;0.425;1" dur="2.0s" fill="freeze"/></path>
+<path d="M975 92H992L985 122H968Z" fill="#FCEE0A"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.390;0.440;1" dur="2.0s" fill="freeze"/></path>
+<path d="M1003 92H1020L1013 122H996Z" fill="#FCEE0A"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.405;0.455;1" dur="2.0s" fill="freeze"/></path>
+<path d="M1031 92H1048L1041 122H1024Z" fill="#00F0FF"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.420;0.470;1" dur="2.0s" fill="freeze"/><animate attributeName="fill-opacity" values="1;.25;1" begin="2.0s" dur="1.4s" repeatCount="indefinite"/></path>
+<path d="M1059 92H1076L1069 122H1052Z" fill="#14161D" stroke="#2C303B"/>
+<text x="1160" y="117" text-anchor="end" class="disp" font-size="24" fill="#00F0FF">19<tspan class="mono" font-size="14" fill="#8A8F98" font-weight="400">/20</tspan></text>
+<line x1="40" y1="140" x2="1160" y2="140" stroke="#FCEE0A" stroke-opacity=".12" stroke-dasharray="4 6"/>
+<text x="40" y="170" class="disp" font-size="21" fill="#FCEE0A" letter-spacing="2">TECHNICAL</text>
+<text x="40" y="192" class="mono" font-size="13" fill="#8A8F98">BACKEND :: .NET Core · REST · CQRS · Mediator</text>
+<path d="M527 154H544L537 184H520Z" fill="#FCEE0A"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.210;0.260;1" dur="2.0s" fill="freeze"/></path>
+<path d="M555 154H572L565 184H548Z" fill="#FCEE0A"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.225;0.275;1" dur="2.0s" fill="freeze"/></path>
+<path d="M583 154H600L593 184H576Z" fill="#FCEE0A"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.240;0.290;1" dur="2.0s" fill="freeze"/></path>
+<path d="M611 154H628L621 184H604Z" fill="#FCEE0A"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.255;0.305;1" dur="2.0s" fill="freeze"/></path>
+<path d="M639 154H656L649 184H632Z" fill="#FCEE0A"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.270;0.320;1" dur="2.0s" fill="freeze"/></path>
+<path d="M667 154H684L677 184H660Z" fill="#FCEE0A"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.285;0.335;1" dur="2.0s" fill="freeze"/></path>
+<path d="M695 154H712L705 184H688Z" fill="#FCEE0A"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.300;0.350;1" dur="2.0s" fill="freeze"/></path>
+<path d="M723 154H740L733 184H716Z" fill="#FCEE0A"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.315;0.365;1" dur="2.0s" fill="freeze"/></path>
+<path d="M751 154H768L761 184H744Z" fill="#FCEE0A"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.330;0.380;1" dur="2.0s" fill="freeze"/></path>
+<path d="M779 154H796L789 184H772Z" fill="#FCEE0A"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.345;0.395;1" dur="2.0s" fill="freeze"/></path>
+<path d="M807 154H824L817 184H800Z" fill="#FCEE0A"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.360;0.410;1" dur="2.0s" fill="freeze"/></path>
+<path d="M835 154H852L845 184H828Z" fill="#FCEE0A"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.375;0.425;1" dur="2.0s" fill="freeze"/></path>
+<path d="M863 154H880L873 184H856Z" fill="#FCEE0A"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.390;0.440;1" dur="2.0s" fill="freeze"/></path>
+<path d="M891 154H908L901 184H884Z" fill="#FCEE0A"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.405;0.455;1" dur="2.0s" fill="freeze"/></path>
+<path d="M919 154H936L929 184H912Z" fill="#FCEE0A"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.420;0.470;1" dur="2.0s" fill="freeze"/></path>
+<path d="M947 154H964L957 184H940Z" fill="#FCEE0A"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.435;0.485;1" dur="2.0s" fill="freeze"/></path>
+<path d="M975 154H992L985 184H968Z" fill="#FCEE0A"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.450;0.500;1" dur="2.0s" fill="freeze"/></path>
+<path d="M1003 154H1020L1013 184H996Z" fill="#00F0FF"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.465;0.515;1" dur="2.0s" fill="freeze"/><animate attributeName="fill-opacity" values="1;.25;1" begin="2.0s" dur="1.4s" repeatCount="indefinite"/></path>
+<path d="M1031 154H1048L1041 184H1024Z" fill="#14161D" stroke="#2C303B"/>
+<path d="M1059 154H1076L1069 184H1052Z" fill="#14161D" stroke="#2C303B"/>
+<text x="1160" y="179" text-anchor="end" class="disp" font-size="24" fill="#00F0FF">18<tspan class="mono" font-size="14" fill="#8A8F98" font-weight="400">/20</tspan></text>
+<line x1="40" y1="202" x2="1160" y2="202" stroke="#FCEE0A" stroke-opacity=".12" stroke-dasharray="4 6"/>
+<text x="40" y="232" class="disp" font-size="21" fill="#FCEE0A" letter-spacing="2">INTELLIGENCE</text>
+<text x="40" y="254" class="mono" font-size="13" fill="#8A8F98">ARCHITECTURE :: Microservices · OAuth 2.0</text>
+<path d="M527 216H544L537 246H520Z" fill="#FCEE0A"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.270;0.320;1" dur="2.0s" fill="freeze"/></path>
+<path d="M555 216H572L565 246H548Z" fill="#FCEE0A"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.285;0.335;1" dur="2.0s" fill="freeze"/></path>
+<path d="M583 216H600L593 246H576Z" fill="#FCEE0A"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.300;0.350;1" dur="2.0s" fill="freeze"/></path>
+<path d="M611 216H628L621 246H604Z" fill="#FCEE0A"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.315;0.365;1" dur="2.0s" fill="freeze"/></path>
+<path d="M639 216H656L649 246H632Z" fill="#FCEE0A"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.330;0.380;1" dur="2.0s" fill="freeze"/></path>
+<path d="M667 216H684L677 246H660Z" fill="#FCEE0A"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.345;0.395;1" dur="2.0s" fill="freeze"/></path>
+<path d="M695 216H712L705 246H688Z" fill="#FCEE0A"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.360;0.410;1" dur="2.0s" fill="freeze"/></path>
+<path d="M723 216H740L733 246H716Z" fill="#FCEE0A"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.375;0.425;1" dur="2.0s" fill="freeze"/></path>
+<path d="M751 216H768L761 246H744Z" fill="#FCEE0A"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.390;0.440;1" dur="2.0s" fill="freeze"/></path>
+<path d="M779 216H796L789 246H772Z" fill="#FCEE0A"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.405;0.455;1" dur="2.0s" fill="freeze"/></path>
+<path d="M807 216H824L817 246H800Z" fill="#FCEE0A"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.420;0.470;1" dur="2.0s" fill="freeze"/></path>
+<path d="M835 216H852L845 246H828Z" fill="#FCEE0A"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.435;0.485;1" dur="2.0s" fill="freeze"/></path>
+<path d="M863 216H880L873 246H856Z" fill="#FCEE0A"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.450;0.500;1" dur="2.0s" fill="freeze"/></path>
+<path d="M891 216H908L901 246H884Z" fill="#FCEE0A"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.465;0.515;1" dur="2.0s" fill="freeze"/></path>
+<path d="M919 216H936L929 246H912Z" fill="#FCEE0A"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.480;0.530;1" dur="2.0s" fill="freeze"/></path>
+<path d="M947 216H964L957 246H940Z" fill="#FCEE0A"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.495;0.545;1" dur="2.0s" fill="freeze"/></path>
+<path d="M975 216H992L985 246H968Z" fill="#00F0FF"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.510;0.560;1" dur="2.0s" fill="freeze"/><animate attributeName="fill-opacity" values="1;.25;1" begin="2.0s" dur="1.4s" repeatCount="indefinite"/></path>
+<path d="M1003 216H1020L1013 246H996Z" fill="#14161D" stroke="#2C303B"/>
+<path d="M1031 216H1048L1041 246H1024Z" fill="#14161D" stroke="#2C303B"/>
+<path d="M1059 216H1076L1069 246H1052Z" fill="#14161D" stroke="#2C303B"/>
+<text x="1160" y="241" text-anchor="end" class="disp" font-size="24" fill="#00F0FF">17<tspan class="mono" font-size="14" fill="#8A8F98" font-weight="400">/20</tspan></text>
+<line x1="40" y1="264" x2="1160" y2="264" stroke="#FCEE0A" stroke-opacity=".12" stroke-dasharray="4 6"/>
+<text x="40" y="294" class="disp" font-size="21" fill="#FCEE0A" letter-spacing="2">BODY</text>
+<text x="40" y="316" class="mono" font-size="13" fill="#8A8F98">CLOUD OPS :: Azure · AWS · GitHub Actions</text>
+<path d="M527 278H544L537 308H520Z" fill="#FCEE0A"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.330;0.380;1" dur="2.0s" fill="freeze"/></path>
+<path d="M555 278H572L565 308H548Z" fill="#FCEE0A"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.345;0.395;1" dur="2.0s" fill="freeze"/></path>
+<path d="M583 278H600L593 308H576Z" fill="#FCEE0A"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.360;0.410;1" dur="2.0s" fill="freeze"/></path>
+<path d="M611 278H628L621 308H604Z" fill="#FCEE0A"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.375;0.425;1" dur="2.0s" fill="freeze"/></path>
+<path d="M639 278H656L649 308H632Z" fill="#FCEE0A"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.390;0.440;1" dur="2.0s" fill="freeze"/></path>
+<path d="M667 278H684L677 308H660Z" fill="#FCEE0A"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.405;0.455;1" dur="2.0s" fill="freeze"/></path>
+<path d="M695 278H712L705 308H688Z" fill="#FCEE0A"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.420;0.470;1" dur="2.0s" fill="freeze"/></path>
+<path d="M723 278H740L733 308H716Z" fill="#FCEE0A"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.435;0.485;1" dur="2.0s" fill="freeze"/></path>
+<path d="M751 278H768L761 308H744Z" fill="#FCEE0A"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.450;0.500;1" dur="2.0s" fill="freeze"/></path>
+<path d="M779 278H796L789 308H772Z" fill="#FCEE0A"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.465;0.515;1" dur="2.0s" fill="freeze"/></path>
+<path d="M807 278H824L817 308H800Z" fill="#FCEE0A"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.480;0.530;1" dur="2.0s" fill="freeze"/></path>
+<path d="M835 278H852L845 308H828Z" fill="#FCEE0A"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.495;0.545;1" dur="2.0s" fill="freeze"/></path>
+<path d="M863 278H880L873 308H856Z" fill="#FCEE0A"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.510;0.560;1" dur="2.0s" fill="freeze"/></path>
+<path d="M891 278H908L901 308H884Z" fill="#FCEE0A"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.525;0.575;1" dur="2.0s" fill="freeze"/></path>
+<path d="M919 278H936L929 308H912Z" fill="#FCEE0A"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.540;0.590;1" dur="2.0s" fill="freeze"/></path>
+<path d="M947 278H964L957 308H940Z" fill="#FCEE0A"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.555;0.605;1" dur="2.0s" fill="freeze"/></path>
+<path d="M975 278H992L985 308H968Z" fill="#00F0FF"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.570;0.620;1" dur="2.0s" fill="freeze"/><animate attributeName="fill-opacity" values="1;.25;1" begin="2.0s" dur="1.4s" repeatCount="indefinite"/></path>
+<path d="M1003 278H1020L1013 308H996Z" fill="#14161D" stroke="#2C303B"/>
+<path d="M1031 278H1048L1041 308H1024Z" fill="#14161D" stroke="#2C303B"/>
+<path d="M1059 278H1076L1069 308H1052Z" fill="#14161D" stroke="#2C303B"/>
+<text x="1160" y="303" text-anchor="end" class="disp" font-size="24" fill="#00F0FF">17<tspan class="mono" font-size="14" fill="#8A8F98" font-weight="400">/20</tspan></text>
+<line x1="40" y1="326" x2="1160" y2="326" stroke="#FCEE0A" stroke-opacity=".12" stroke-dasharray="4 6"/>
+<text x="40" y="356" class="disp" font-size="21" fill="#FCEE0A" letter-spacing="2">COOL</text>
+<text x="40" y="378" class="mono" font-size="13" fill="#8A8F98">UI CRAFT :: Tailwind · Material UI · Redux · Zustand</text>
+<path d="M527 340H544L537 370H520Z" fill="#FCEE0A"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.390;0.440;1" dur="2.0s" fill="freeze"/></path>
+<path d="M555 340H572L565 370H548Z" fill="#FCEE0A"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.405;0.455;1" dur="2.0s" fill="freeze"/></path>
+<path d="M583 340H600L593 370H576Z" fill="#FCEE0A"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.420;0.470;1" dur="2.0s" fill="freeze"/></path>
+<path d="M611 340H628L621 370H604Z" fill="#FCEE0A"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.435;0.485;1" dur="2.0s" fill="freeze"/></path>
+<path d="M639 340H656L649 370H632Z" fill="#FCEE0A"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.450;0.500;1" dur="2.0s" fill="freeze"/></path>
+<path d="M667 340H684L677 370H660Z" fill="#FCEE0A"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.465;0.515;1" dur="2.0s" fill="freeze"/></path>
+<path d="M695 340H712L705 370H688Z" fill="#FCEE0A"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.480;0.530;1" dur="2.0s" fill="freeze"/></path>
+<path d="M723 340H740L733 370H716Z" fill="#FCEE0A"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.495;0.545;1" dur="2.0s" fill="freeze"/></path>
+<path d="M751 340H768L761 370H744Z" fill="#FCEE0A"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.510;0.560;1" dur="2.0s" fill="freeze"/></path>
+<path d="M779 340H796L789 370H772Z" fill="#FCEE0A"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.525;0.575;1" dur="2.0s" fill="freeze"/></path>
+<path d="M807 340H824L817 370H800Z" fill="#FCEE0A"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.540;0.590;1" dur="2.0s" fill="freeze"/></path>
+<path d="M835 340H852L845 370H828Z" fill="#FCEE0A"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.555;0.605;1" dur="2.0s" fill="freeze"/></path>
+<path d="M863 340H880L873 370H856Z" fill="#FCEE0A"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.570;0.620;1" dur="2.0s" fill="freeze"/></path>
+<path d="M891 340H908L901 370H884Z" fill="#FCEE0A"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.585;0.635;1" dur="2.0s" fill="freeze"/></path>
+<path d="M919 340H936L929 370H912Z" fill="#FCEE0A"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.600;0.650;1" dur="2.0s" fill="freeze"/></path>
+<path d="M947 340H964L957 370H940Z" fill="#FCEE0A"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.615;0.665;1" dur="2.0s" fill="freeze"/></path>
+<path d="M975 340H992L985 370H968Z" fill="#FCEE0A"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.630;0.680;1" dur="2.0s" fill="freeze"/></path>
+<path d="M1003 340H1020L1013 370H996Z" fill="#00F0FF"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.645;0.695;1" dur="2.0s" fill="freeze"/><animate attributeName="fill-opacity" values="1;.25;1" begin="2.0s" dur="1.4s" repeatCount="indefinite"/></path>
+<path d="M1031 340H1048L1041 370H1024Z" fill="#14161D" stroke="#2C303B"/>
+<path d="M1059 340H1076L1069 370H1052Z" fill="#14161D" stroke="#2C303B"/>
+<text x="1160" y="365" text-anchor="end" class="disp" font-size="24" fill="#00F0FF">18<tspan class="mono" font-size="14" fill="#8A8F98" font-weight="400">/20</tspan></text>
+<line x1="40" y1="388" x2="1160" y2="388" stroke="#FCEE0A" stroke-opacity=".12" stroke-dasharray="4 6"/>
+<text x="40" y="418" class="disp" font-size="21" fill="#FCEE0A" letter-spacing="2">EMPATHY</text>
+<text x="40" y="440" class="mono" font-size="13" fill="#8A8F98">TRAINING :: Mentoring devs in JS / TS / C#</text>
+<path d="M527 402H544L537 432H520Z" fill="#FCEE0A"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.450;0.500;1" dur="2.0s" fill="freeze"/></path>
+<path d="M555 402H572L565 432H548Z" fill="#FCEE0A"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.465;0.515;1" dur="2.0s" fill="freeze"/></path>
+<path d="M583 402H600L593 432H576Z" fill="#FCEE0A"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.480;0.530;1" dur="2.0s" fill="freeze"/></path>
+<path d="M611 402H628L621 432H604Z" fill="#FCEE0A"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.495;0.545;1" dur="2.0s" fill="freeze"/></path>
+<path d="M639 402H656L649 432H632Z" fill="#FCEE0A"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.510;0.560;1" dur="2.0s" fill="freeze"/></path>
+<path d="M667 402H684L677 432H660Z" fill="#FCEE0A"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.525;0.575;1" dur="2.0s" fill="freeze"/></path>
+<path d="M695 402H712L705 432H688Z" fill="#FCEE0A"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.540;0.590;1" dur="2.0s" fill="freeze"/></path>
+<path d="M723 402H740L733 432H716Z" fill="#FCEE0A"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.555;0.605;1" dur="2.0s" fill="freeze"/></path>
+<path d="M751 402H768L761 432H744Z" fill="#FCEE0A"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.570;0.620;1" dur="2.0s" fill="freeze"/></path>
+<path d="M779 402H796L789 432H772Z" fill="#FCEE0A"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.585;0.635;1" dur="2.0s" fill="freeze"/></path>
+<path d="M807 402H824L817 432H800Z" fill="#FCEE0A"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.600;0.650;1" dur="2.0s" fill="freeze"/></path>
+<path d="M835 402H852L845 432H828Z" fill="#FCEE0A"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.615;0.665;1" dur="2.0s" fill="freeze"/></path>
+<path d="M863 402H880L873 432H856Z" fill="#FCEE0A"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.630;0.680;1" dur="2.0s" fill="freeze"/></path>
+<path d="M891 402H908L901 432H884Z" fill="#FCEE0A"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.645;0.695;1" dur="2.0s" fill="freeze"/></path>
+<path d="M919 402H936L929 432H912Z" fill="#FCEE0A"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.660;0.710;1" dur="2.0s" fill="freeze"/></path>
+<path d="M947 402H964L957 432H940Z" fill="#FCEE0A"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.675;0.725;1" dur="2.0s" fill="freeze"/></path>
+<path d="M975 402H992L985 432H968Z" fill="#FCEE0A"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.690;0.740;1" dur="2.0s" fill="freeze"/></path>
+<path d="M1003 402H1020L1013 432H996Z" fill="#FCEE0A"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.705;0.755;1" dur="2.0s" fill="freeze"/></path>
+<path d="M1031 402H1048L1041 432H1024Z" fill="#00F0FF"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.720;0.770;1" dur="2.0s" fill="freeze"/><animate attributeName="fill-opacity" values="1;.25;1" begin="2.0s" dur="1.4s" repeatCount="indefinite"/></path>
+<path d="M1059 402H1076L1069 432H1052Z" fill="#14161D" stroke="#2C303B"/>
+<text x="1160" y="427" text-anchor="end" class="disp" font-size="24" fill="#00F0FF">19<tspan class="mono" font-size="14" fill="#8A8F98" font-weight="400">/20</tspan></text>
+<rect width="1200" height="468" fill="url(#scan)"/>
+</g>
+<path d="M1 1H1169.5L1199 30.5V467H30.5L1 437.5Z" fill="none" stroke="#FCEE0A" stroke-opacity=".6" stroke-width="2"/>
+</svg>
