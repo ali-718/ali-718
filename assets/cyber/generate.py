@@ -4,8 +4,8 @@
 import os, sys
 from xml.sax.saxutils import escape as esc
 
-OUT = sys.argv[1] if len(sys.argv) > 1 else os.path.dirname(os.path.abspath(__file__))
-os.makedirs(OUT, exist_ok=True)
+HERE = os.path.dirname(os.path.abspath(__file__))
+OUT = HERE  # overridden by argv in __main__; stats.py imports this module for the shared styles
 
 Y, C, R, BG, DIM, TXT = "#FCEE0A", "#00F0FF", "#FF003C", "#0A0B10", "#8A8F98", "#E6E6E6"
 STYLE = """<style>
@@ -384,7 +384,7 @@ def panel(h, tab, right, body, aria):
 
 
 def stack():
-    raw = open(os.path.join(OUT, "src", "skillicons.svg"), encoding="utf-8").read()
+    raw = open(os.path.join(HERE, "src", "skillicons.svg"), encoding="utf-8").read()
     inner = raw[raw.index(">", raw.index("<svg")) + 1: raw.rindex("</svg>")]
     row_w, size = 2056, 110  # 7 icons of 256 + 6 gaps of 44 (source units)
     pw = row_w * size / 256
@@ -446,17 +446,19 @@ def offduty():
     return panel(176, "LEISURE.CFG", "STATUS: OFF-DUTY", "\n".join(cells), "Hobbies: videogames, travelling, cooking")
 
 
-write("header.svg", header())
-for n, title, tag in SECTIONS:
-    write(f"section-{n:02d}.svg", section(n, title, tag))
-write("attributes.svg", attributes())
-write("terminal.svg", terminal())
-write("footer.svg", footer())
-write("stack.svg", stack())
-write("bio.svg", bio())
-write("training.svg", training())
-write("offduty.svg", offduty())
-os.makedirs(os.path.join(OUT, "tiles"), exist_ok=True)
-for i, (slug, spec) in enumerate(TILES.items()):
-    write(os.path.join("tiles", f"{slug}.svg"), tile(idx=i, **spec))
-print("ok", sorted(os.listdir(OUT)))
+if __name__ == "__main__":
+    OUT = sys.argv[1] if len(sys.argv) > 1 else HERE
+    os.makedirs(os.path.join(OUT, "tiles"), exist_ok=True)
+    write("header.svg", header())
+    for n, title, tag in SECTIONS:
+        write(f"section-{n:02d}.svg", section(n, title, tag))
+    write("attributes.svg", attributes())
+    write("terminal.svg", terminal())
+    write("footer.svg", footer())
+    write("stack.svg", stack())
+    write("bio.svg", bio())
+    write("training.svg", training())
+    write("offduty.svg", offduty())
+    for i, (slug, spec) in enumerate(TILES.items()):
+        write(os.path.join("tiles", f"{slug}.svg"), tile(idx=i, **spec))
+    print("ok", sorted(os.listdir(OUT)))

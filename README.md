@@ -64,10 +64,8 @@
 <img width="100%" alt="05 System Diagnostics" src="./assets/cyber/section-05.svg" />
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ali-718&show_icons=true&include_all_commits=true&bg_color=0A0B10&title_color=FCEE0A&icon_color=00F0FF&text_color=E6E6E6&border_color=FCEE0A&ring_color=FF003C&custom_title=NETRUNNER%20DIAGNOSTICS" alt="GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-718&layout=compact&bg_color=0A0B10&title_color=FCEE0A&text_color=E6E6E6&border_color=FCEE0A&custom_title=CODE%20IMPLANTS" alt="Top languages" />
-  <img width="100%" src="https://streak-stats.demolab.com?user=ali-718&background=0A0B10&border=FCEE0A&stroke=FCEE0A&ring=FF003C&fire=FF003C&currStreakNum=00F0FF&sideNums=FCEE0A&currStreakLabel=FCEE0A&sideLabels=E6E6E6&dates=8A8F98" alt="Contribution streak" />
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ali-718&bg_color=0A0B10&color=00F0FF&line=FCEE0A&point=FF003C&area=true&area_color=FCEE0A&hide_border=false&border_color=FCEE0A&title_color=FCEE0A&custom_title=NEURAL%20ACTIVITY%20LOG" alt="Contribution activity graph" />
+  <img width="100%" src="https://raw.githubusercontent.com/ali-718/ali-718/output/diagnostics.svg" alt="GitHub stats, top languages and contribution streaks" />
+  <img width="100%" src="https://raw.githubusercontent.com/ali-718/ali-718/output/activity.svg" alt="Contribution activity graph, last 30 days" />
   <img width="100%" src="https://raw.githubusercontent.com/ali-718/ali-718/output/cyber-snake.svg" alt="Snake eating the contribution grid" />
 </p>
 
