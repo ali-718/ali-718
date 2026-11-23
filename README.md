@@ -64,7 +64,6 @@
 <img width="100%" alt="05 System Diagnostics" src="./assets/cyber/section-05.svg" />
 
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/ali-718/ali-718/output/diagnostics.svg" alt="GitHub stats, top languages and contribution streaks" />
   <img width="100%" src="https://raw.githubusercontent.com/ali-718/ali-718/output/activity.svg" alt="Contribution activity graph, last 30 days" />
   <img width="100%" src="https://raw.githubusercontent.com/ali-718/ali-718/output/cyber-snake.svg" alt="Snake eating the contribution grid" />
 </p>
@@ -82,12 +81,6 @@
 
 <img width="100%" alt="07 Off-Duty" src="./assets/cyber/section-07.svg" />
 <a href="https://steamcommunity.com/id/haider718/"><img width="100%" alt="Hobbies: videogames, travelling, cooking" src="./assets/cyber/offduty.svg" /></a>
-
-<p align="center">
-  <a href="https://jvillegasd-spotify.vercel.app/api/song/?opened">
-    <img src="https://jvillegasd-spotify.vercel.app/api/song?background_color=0A0B10&border_color=FCEE0A" width="341" height="571" alt="Now playing on Spotify" />
-  </a>
-</p>
 
 <img width="100%" alt="08 Comms Link" src="./assets/cyber/section-08.svg" />
 
