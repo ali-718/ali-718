@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="454" viewBox="0 0 1200 454" role="img" aria-label="With over 6+ years of experience, I specialize in building responsive, user-focused front-end applications using modern frameworks like React and React Native. My expertise in Tailwind CSS and Material UI enables me to create clean, cohesive designs that enhance user engagement. For state management, I leverage Redux for complex applications and Zustand for lightweight solutions. On the backend, I excel in .NET Core, designing RESTful APIs, implementing microservices, and using patterns like CQRS and Mediator for maintainable and scalable systems. I also configure OAuth 2.0 for secure authentication. I have strong DevOps expertise, working with Azure (App Service, Service Bus, Azure DevOps) and AWS (EC2, S3, Lambda) to streamline development and deployment. I implement CI/CD pipelines with tools like GitHub Actions for fast, reliable deployments. Committed to localization and following industry best practices, I deliver impactful, high-quality software solutions tailored to client and user needs.">
+<title>DECRYPTED BIO</title>
+<style>
+.disp{font-family:'Arial Black','Arial Bold',Impact,'Helvetica Neue',Arial,sans-serif;font-weight:900}
+.mono{font-family:Consolas,'Courier New',Menlo,monospace}
+@keyframes flicker{0%,18%,22%,25%,53%,57%,100%{opacity:1}20%,24%,55%{opacity:.25}}
+.flicker{animation:flicker 4s infinite}
+</style>
+<defs>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#FCEE0A" stroke-opacity=".07"/></pattern>
+<pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1.5" fill="#000" opacity=".35"/></pattern>
+<pattern id="stripes" width="12" height="12" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="6" height="12" fill="#FCEE0A"/></pattern>
+<clipPath id="frame"><path d="M0 0H1170L1200 30V454H30L0 424Z"/></clipPath>
+</defs>
+<g clip-path="url(#frame)">
+<rect width="1200" height="454" fill="#0A0B10"/>
+<rect width="1200" height="454" fill="url(#grid)"/>
+<path d="M0 0H235L211 34H0Z" fill="#FCEE0A"/>
+<text x="24" y="24" class="disp" font-size="17" fill="#0A0B10" letter-spacing="3">DECRYPTED BIO</text>
+<text x="1160" y="26" text-anchor="end" class="mono" font-size="13" fill="#8A8F98" letter-spacing="2">CLEARANCE: <tspan fill="#FF003C">GRANTED</tspan></text>
+<text x="40" y="80" class="mono" font-size="16" fill="#E6E6E6">With over 6+ years of experience, I specialize in building responsive, user-focused front-end</text>
+<text x="40" y="105" class="mono" font-size="16" fill="#E6E6E6">applications using modern frameworks like React and React Native. My expertise in Tailwind CSS and</text>
+<text x="40" y="130" class="mono" font-size="16" fill="#E6E6E6">Material UI enables me to create clean, cohesive designs that enhance user engagement. For state</text>
+<text x="40" y="155" class="mono" font-size="16" fill="#E6E6E6">management, I leverage Redux for complex applications and Zustand for lightweight solutions.</text>
+<text x="40" y="196" class="mono" font-size="16" fill="#E6E6E6">On the backend, I excel in .NET Core, designing RESTful APIs, implementing microservices, and using</text>
+<text x="40" y="221" class="mono" font-size="16" fill="#E6E6E6">patterns like CQRS and Mediator for maintainable and scalable systems. I also configure OAuth 2.0 for</text>
+<text x="40" y="246" class="mono" font-size="16" fill="#E6E6E6">secure authentication.</text>
+<text x="40" y="287" class="mono" font-size="16" fill="#E6E6E6">I have strong DevOps expertise, working with Azure (App Service, Service Bus, Azure DevOps) and AWS</text>
+<text x="40" y="312" class="mono" font-size="16" fill="#E6E6E6">(EC2, S3, Lambda) to streamline development and deployment. I implement CI/CD pipelines with tools like</text>
+<text x="40" y="337" class="mono" font-size="16" fill="#E6E6E6">GitHub Actions for fast, reliable deployments.</text>
+<text x="40" y="378" class="mono" font-size="16" fill="#E6E6E6">Committed to localization and following industry best practices, I deliver impactful, high-quality</text>
+<text x="40" y="403" class="mono" font-size="16" fill="#E6E6E6">software solutions tailored to client and user needs.</text>
+<rect width="1200" height="454" fill="url(#scan)"/>
+</g>
+<path d="M1 1H1169.5L1199 30.5V453H30.5L1 423.5Z" fill="none" stroke="#FCEE0A" stroke-opacity=".6" stroke-width="2"/>
+</svg>

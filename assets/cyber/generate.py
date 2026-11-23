@@ -299,10 +299,164 @@ def footer():
 """
 
 
+# ---------------------------------------------------------------- TILES (clickable dark cards)
+def tile(label, value, status="", accent=Y, w=600, link=False, mono=False, live=False, idx=0):
+    h = 76
+    vclass, vsize = ("mono", 21) if mono else ("disp", 22)
+    status_svg = ""
+    if status:
+        dot_anim = ('<animate attributeName="fill-opacity" values="1;.15" dur="1s" calcMode="discrete" repeatCount="indefinite"/>'
+                    if live else "")
+        status_svg = (f'<text x="{w - 26}" y="28" text-anchor="end" class="mono" font-size="12" fill="{DIM}" letter-spacing="2">'
+                      f'<tspan fill="{accent}">●{dot_anim}</tspan> {esc(status)}</text>')
+    arrow = (f'<text x="{w - 26}" y="58" text-anchor="end" class="mono" font-size="18" font-weight="700" fill="{accent}">&gt;&gt;</text>'
+             if link else "")
+    begin = (idx * 0.43) % 3
+    return f"""<svg xmlns="http://www.w3.org/2000/svg" width="{w}" height="{h}" viewBox="0 0 {w} {h}" role="img" aria-label="{esc(label)}: {esc(value)}">
+<title>{esc(value)}</title>
+{STYLE}
+<defs>
+{COMMON_DEFS}
+<clipPath id="frame"><path d="M0 0H{w - 20}L{w} 20V{h}H20L0 {h - 20}Z"/></clipPath>
+</defs>
+<g clip-path="url(#frame)">
+<rect width="{w}" height="{h}" fill="{BG}"/>
+<rect width="{w}" height="{h}" fill="url(#grid)"/>
+<rect width="8" height="{h}" fill="{accent}"/>
+<text x="26" y="28" class="mono" font-size="12" fill="{DIM}" letter-spacing="3">{esc(label)}</text>
+<text x="26" y="58" class="{vclass}" font-size="{vsize}" fill="{Y}" letter-spacing="1">{esc(value)}</text>
+{status_svg}
+{arrow}
+<line x1="26" y1="{h - 6}" x2="{w - 26}" y2="{h - 6}" stroke="{accent}" stroke-width="2" stroke-dasharray="90 {w * 2}" stroke-opacity=".8"><animate attributeName="stroke-dashoffset" values="90;-{w}" begin="{begin:.2f}s" dur="3s" repeatCount="indefinite"/></line>
+<rect width="{w}" height="{h}" fill="url(#scan)"/>
+</g>
+<path d="M1 1H{w - 20.5}L{w - 1} 20.5V{h - 1}H20.5L1 {h - 20.5}Z" fill="none" stroke="{accent}" stroke-opacity=".55" stroke-width="2"/>
+</svg>
+"""
+
+
+TILES = {
+    # identity
+    "id-role": dict(label="ROLE // CURRENT GIG", value="Fullstack Engineer @ Westpac", status="ACTIVE", accent=R, live=True, link=True),
+    "id-location": dict(label="LOCATION", value="Sydney, AU", status="NC-SYD", accent=C),
+    "id-class": dict(label="SIDE CLASS", value="Trainer & Mentor", accent=Y),
+    "id-chipset": dict(label="CHIPSET // EDUCATION", value="Master of IT @ KOI", accent=C, link=True),
+    "id-network": dict(label="NETWORK", value="LinkedIn Profile", accent=Y, link=True),
+    "id-line": dict(label="DIRECT LINE", value="alimurtuza718@gmail.com", accent=R, link=True, mono=True),
+    # corpo history
+    "corp-westpac": dict(label="CORP 01 // CURRENT EMPLOYER", value="Westpac", status="ACTIVE CONTRACT", accent=R, live=True, link=True, w=1200),
+    "corp-mae": dict(label="CORP 02", value="MAE Logistics", status="COMPLETED", accent=Y, link=True),
+    "corp-raena": dict(label="CORP 03", value="RAENA", status="COMPLETED", accent=C, link=True),
+    "corp-somee": dict(label="CORP 04", value="Somee Social", status="COMPLETED", accent=C, link=True),
+    "corp-bizintel": dict(label="CORP 05", value="BizIntel", status="COMPLETED", accent=Y, link=True),
+}
+for slug, name in [("ma3", "MA3 Logistics"), ("ayms", "AYMS International"), ("somee", "Somee Social"),
+                   ("rdash", "Rdash 360"), ("linkstore", "Linkstore (testing build)"), ("dresez", "Dresez")]:
+    TILES[f"web-{slug}"] = dict(label="NET DEPLOYMENT // WEB", value=name, status="WEB", accent=C, link=True)
+for slug, name in [("raena", "RAENA Reseller & Dropship"), ("somee", "Somee Social"), ("beeplink", "Beeplink"),
+                   ("kumbayah", "KumBaYah"), ("bakier", "Bakier"), ("glow", "Glow Calculator"), ("macca", "Macca Motors")]:
+    TILES[f"app-{slug}"] = dict(label="MOBILE IMPLANT // ANDROID", value=name, status="PLAY STORE", accent=Y, link=True)
+TILES["app-macca"]["w"] = 1200
+
+
+# ---------------------------------------------------------------- GENERIC PANEL FRAME
+def panel(h, tab, right, body, aria):
+    tabw = 40 + len(tab) * 15
+    return f"""<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="{h}" viewBox="0 0 1200 {h}" role="img" aria-label="{esc(aria)}">
+<title>{esc(tab)}</title>
+{STYLE}
+<defs>
+{COMMON_DEFS}
+<clipPath id="frame"><path d="M0 0H1170L1200 30V{h}H30L0 {h - 30}Z"/></clipPath>
+</defs>
+<g clip-path="url(#frame)">
+<rect width="1200" height="{h}" fill="{BG}"/>
+<rect width="1200" height="{h}" fill="url(#grid)"/>
+<path d="M0 0H{tabw}L{tabw - 24} 34H0Z" fill="{Y}"/>
+<text x="24" y="24" class="disp" font-size="17" fill="{BG}" letter-spacing="3">{esc(tab)}</text>
+<text x="1160" y="26" text-anchor="end" class="mono" font-size="13" fill="{DIM}" letter-spacing="2">{right}</text>
+{body}
+<rect width="1200" height="{h}" fill="url(#scan)"/>
+</g>
+<path d="M1 1H1169.5L1199 30.5V{h - 1}H30.5L1 {h - 30.5}Z" fill="none" stroke="{Y}" stroke-opacity=".6" stroke-width="2"/>
+</svg>
+"""
+
+
+def stack():
+    raw = open(os.path.join(OUT, "src", "skillicons.svg"), encoding="utf-8").read()
+    inner = raw[raw.index(">", raw.index("<svg")) + 1: raw.rindex("</svg>")]
+    row_w, size = 2056, 110  # 7 icons of 256 + 6 gaps of 44 (source units)
+    pw = row_w * size / 256
+    x = (1200 - pw) / 2
+    body = f"""<defs><g id="strip">{inner}</g></defs>
+<svg x="{x:.1f}" y="70" width="{pw:.1f}" height="{size}" viewBox="0 0 {row_w} 256"><use href="#strip"/></svg>
+<svg x="{x:.1f}" y="200" width="{pw:.1f}" height="{size}" viewBox="2100 0 {row_w} 256"><use href="#strip"/></svg>
+<rect x="0" y="60" width="60" height="260" fill="{C}" fill-opacity=".10"><animate attributeName="x" values="-60;1200" dur="3.5s" repeatCount="indefinite"/></rect>"""
+    return panel(340, "CYBERWARE INSTALLED", f'MODULES: <tspan fill="{C}">14</tspan>', body,
+                 "React, Next.js, TypeScript, JavaScript, Node.js, .NET, C#, Tailwind, Material UI, Redux, Azure, AWS, GitHub Actions, Git")
+
+
+BIO = [
+    "With over 6+ years of experience, I specialize in building responsive, user-focused front-end applications using modern frameworks like React and React Native. My expertise in Tailwind CSS and Material UI enables me to create clean, cohesive designs that enhance user engagement. For state management, I leverage Redux for complex applications and Zustand for lightweight solutions.",
+    "On the backend, I excel in .NET Core, designing RESTful APIs, implementing microservices, and using patterns like CQRS and Mediator for maintainable and scalable systems. I also configure OAuth 2.0 for secure authentication.",
+    "I have strong DevOps expertise, working with Azure (App Service, Service Bus, Azure DevOps) and AWS (EC2, S3, Lambda) to streamline development and deployment. I implement CI/CD pipelines with tools like GitHub Actions for fast, reliable deployments.",
+    "Committed to localization and following industry best practices, I deliver impactful, high-quality software solutions tailored to client and user needs.",
+]
+
+
+def bio():
+    import textwrap
+    y, out = 80, []
+    for p in BIO:
+        for ln in textwrap.wrap(p, 104):
+            out.append(f'<text x="40" y="{y}" class="mono" font-size="16" fill="{TXT}">{esc(ln)}</text>')
+            y += 25
+        y += 16
+    return panel(y + 10, "DECRYPTED BIO", f'CLEARANCE: <tspan fill="{R}">GRANTED</tspan>', "\n".join(out), " ".join(BIO))
+
+
+TRAINING = ["Fullstack web development (React.js / React Native / .NET Core)", "JavaScript / TypeScript / C#",
+            "Git", "Programming fundamentals"]
+
+
+def training():
+    rows = []
+    for i, t in enumerate(TRAINING):
+        y = 84 + i * 48
+        rows.append(f'<text x="40" y="{y}" class="disp" font-size="18" fill="{C}">P-{i + 1:02d}</text>'
+                    f'<text x="120" y="{y}" class="mono" font-size="18" fill="{TXT}">{esc(t)}</text>'
+                    f'<text x="1160" y="{y}" text-anchor="end" class="mono" font-size="13" fill="{Y}" letter-spacing="2">[ LOADED ]</text>'
+                    f'<line x1="40" y1="{y + 16}" x2="1160" y2="{y + 16}" stroke="{Y}" stroke-opacity=".12" stroke-dasharray="4 6"/>')
+    h = 84 + len(TRAINING) * 48
+    return panel(h, "MENTOR.SYS LOADED", "JACKING NEW RUNNERS IN", "\n".join(rows), "Training: " + ", ".join(TRAINING))
+
+
+HOBBIES = [("01", "GAMING", "Play videogames", Y), ("02", "TRAVEL", "Travelling", C), ("03", "COOKING", "Cooking", R)]
+
+
+def offduty():
+    cells = []
+    for i, (n, title, sub, col) in enumerate(HOBBIES):
+        x = 40 + i * 380
+        cells.append(f'<path d="M{x} 60H{x + 350}L{x + 360} 70V150H{x + 10}L{x} 140Z" fill="#11131A" stroke="{col}" stroke-opacity=".6"/>'
+                     f'<rect x="{x}" y="60" width="6" height="80" fill="{col}"/>'
+                     f'<text x="{x + 24}" y="94" class="disp" font-size="26" fill="{col}">{title}</text>'
+                     f'<text x="{x + 24}" y="124" class="mono" font-size="15" fill="{DIM}">{n} // {esc(sub)}</text>')
+    return panel(176, "LEISURE.CFG", "STATUS: OFF-DUTY", "\n".join(cells), "Hobbies: videogames, travelling, cooking")
+
+
 write("header.svg", header())
 for n, title, tag in SECTIONS:
     write(f"section-{n:02d}.svg", section(n, title, tag))
 write("attributes.svg", attributes())
 write("terminal.svg", terminal())
 write("footer.svg", footer())
+write("stack.svg", stack())
+write("bio.svg", bio())
+write("training.svg", training())
+write("offduty.svg", offduty())
+os.makedirs(os.path.join(OUT, "tiles"), exist_ok=True)
+for i, (slug, spec) in enumerate(TILES.items()):
+    write(os.path.join("tiles", f"{slug}.svg"), tile(idx=i, **spec))
 print("ok", sorted(os.listdir(OUT)))
